@@ -1,0 +1,16 @@
+digraph G {
+0 -> 1 [label=" w "]
+1 -> 2 [label=" o "]
+2 -> 3 [label=" o "]
+3 -> 4 [label=" f "]
+3 -> 5 [label=" d "]
+0 -> 6 [label=" b "]
+6 -> 7 [label=" a "]
+7 -> 8 [label=" n "]
+8 -> 9 [label=" a "]
+9 -> 10 [label=" n "]
+10 -> 11 [label=" a "]
+4 [style=filled]
+5 [style=filled]
+11 [style=filled]
+}
